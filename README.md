@@ -1,4 +1,5 @@
 # Determined-Dialogue
+
 Determined Dialogue
 Version 0.1
 Created in Unity 2018.3
@@ -19,7 +20,6 @@ Drag the following prefabs into your scene hierarchy (they’re in the appropria
 If you don’t have one, right-click in your scene hierarchy and put in an Audio Source (Right-click → Audio → Audio Source).
 Click on the DialogueSystem in your hierarchy. An inspector should appear.
 
-(If you’re too young for this show - go watch it.)
 In the inspector, you should see “Dialogue System (Script)” and a list underneath it containing things like Audio Source, Portrait, etc. Because you have followed these directions, you already have everything you need to fill in the DialogueSystem in your hierarchy! Huzzah! (Does anyone else think “hierarchy” should be spelled “heirarchy”... like, heirs…?)
 With the inspector open, go back to your hierarchy and expand Canvas, then TextBox.
 Drag the following from your hierarchy to the appropriate spot under Dialogue System (Script) in the inspector:

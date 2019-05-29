@@ -4,6 +4,8 @@ Determined Dialogue
 Version 0.1
 Created in Unity 2018.3
 
+DEMO VIDEO: https://youtu.be/W3QO_FjZm6A
+
 UPDATE: I made a (really low-quality, sorry) companion video that goes through this walkthrough step-by-step, so if you think that’d help you (or if you get confused), check it out! https://youtu.be/Bm_WSsMTY_s
 
 This is a dialogue system for Unity2D that I created based around the Undertale dialogue system. Not all the functionality is there yet (in fact, I have many more features that I want to add!), but with the semester coming up, I thought I would release a stable version with some documentation and see what people thought of it.
